@@ -39,7 +39,7 @@ dotnet build
 ### 🖱️ Usage
 
 ```bash
-PDFDeSecure.exe input.pdf output.pdf
+PDFDeSecure.exe
 ```
 
 That’s it! Your output PDF will be unrestricted.
